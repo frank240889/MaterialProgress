@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialProgressExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_something">Type something</string>
+    <string name="instructions">Press play or type something in edit text and press play or refresh.</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="show_progress">Show</string>
+    <string name="update_progress">Update</string>
+    <string name="hide_progress">Hide</string>
+</resources>

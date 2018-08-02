@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="MaterialProgress">
+        <attr name="message" format="string" />
+        <attr name="attachToParent" format="integer" />
+    </declare-styleable>
+</resources>
